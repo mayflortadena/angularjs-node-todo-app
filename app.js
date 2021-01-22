@@ -5,7 +5,7 @@ var mongoose = require("mongoose");
 var config = require("./api/config");
 
 var todoController = require("./api/todos.js");
-// todoController()
+
 // initialize environment
 require("dotenv").config();
 
